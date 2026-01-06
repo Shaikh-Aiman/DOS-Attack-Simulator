@@ -82,7 +82,7 @@ __Event Logs tab__
 - __Clear DB Logs:__ deletes all persistent logs from the SQLite DB (confirm via GUI). After clearing, the DB is empty until new events are logged.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/81190d63-a9d2-451f-b4cb-5884faa2b434" alt="DoS4" width="700">
+  <img src="https://github.com/user-attachments/assets/81190d63-a9d2-451f-b4cb-5884faa2b434" alt="DoS4" width="350">
 </p>
 
 ### Configuration:
@@ -118,6 +118,6 @@ This project demonstrates a realistic, per-IP rate limiting defense chain, with 
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/48f1f3d4-6c26-46fd-b046-e41a05b646c8" alt="DoS final" width="700">
+  <img src="https://github.com/user-attachments/assets/48f1f3d4-6c26-46fd-b046-e41a05b646c8" alt="DoS final" width="500">
 </p>
 
