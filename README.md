@@ -106,7 +106,10 @@ This project demonstrates a realistic, per-IP rate limiting defense chain, with 
 
 ### ⚠️ Disclaimer
 
-For __educational and authorized testing__ only.
-Do not run this tool against systems for which you do not have explicit permission. Misuse may violate local laws and acceptable use policies. </n>
+- For __educational and authorized testing__ only.
+- Do not run this tool against systems for which you do not have explicit permission. Misuse may violate local laws and acceptable use policies. </n>
+
+
+
 ![DOS4](https://github.com/user-attachments/assets/48f1f3d4-6c26-46fd-b046-e41a05b646c8)
 
