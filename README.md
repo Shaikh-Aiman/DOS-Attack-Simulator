@@ -1,4 +1,4 @@
-# DOS-Attack-Simulator
+# DOS Attack Simulator
 
 ![dos](https://github.com/user-attachments/assets/9029b1fb-1610-403c-9561-2550be23bf74)
 
