@@ -19,7 +19,8 @@ This project visualizes how modern systems respond to high request rates using *
 - Persist all events for forensic analysis in an on-disk SQLite DB `security_events.db`.
 - Let users view, filter and export persistent logs (CSV) from within the GUI.
 
-<img width="803" height="526" alt="image" src="https://github.com/user-attachments/assets/37f62e66-39b2-48f5-a7d3-69fa17e543fd" />
+<p align="center"> <img width="803" height="526" alt="image" src="https://github.com/user-attachments/assets/37f62e66-39b2-48f5-a7d3-69fa17e543fd" />
+</p>
 
 
 
@@ -51,7 +52,9 @@ cd DOS-Attack-Simulator
 - Click __Stop Attack__ to stop traffic. Click __Stop Server__ to mark server offline (GUI flag); the Flask dev server thread remains a background thread (browser access is blocked by GUI when offline to avoid false positives).
 - Close the app or press `Ctrl+C` in terminal — program performs graceful shutdown (stops simulator, cancels GUI timers and exits).
 
-![DOS5](https://github.com/user-attachments/assets/378f6728-2e0a-4bd4-8a5f-ea9a8a47cc2d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/378f6728-2e0a-4bd4-8a5f-ea9a8a47cc2d"  alt="DoS Simulator – Logs View" width="1000">
+</p>
 
 
 ### Usage of Buttons:
