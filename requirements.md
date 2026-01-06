@@ -1,6 +1,9 @@
 # Prerequisites
 
-![DOS2](https://github.com/user-attachments/assets/5e3181f7-bd64-4799-822d-63966c28595b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5e3181f7-bd64-4799-822d-63966c28595b" alt="REQ IMG 1"
+       width="700">
+</p>
 
 This document explains the system, software, and library requirements needed to run the __DOS Attack Simulator__ successfully.
 <br>
