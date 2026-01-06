@@ -7,9 +7,8 @@ A **desktop-based cybersecurity simulation tool** built using **Python, Tkinter,
 This project visualizes how modern systems respond to high request rates using **HTTP status codes (200, 429, 403)** and **auto-blacklisting**, while providing **real-time monitoring**, **persistent forensic logs (SQLite)**, and **CSV export**.
 
 <p align="center">
-  <img src="![DOS1](https://github.com/user-attachments/assets/b1afe41f-7163-48b6-aa96-08df3f3de6f4)" alt="Demo GIF" width="700">
+  <img src="https://github.com/user-attachments/assets/b1afe41f-7163-48b6-aa96-08df3f3de6f4" alt="DoS Simulator Demo" width="700">
 </p>
-
 
 
 ### Project Objectives:
