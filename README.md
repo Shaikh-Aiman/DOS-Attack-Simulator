@@ -1,8 +1,7 @@
 # DOS-Attack-Simulator
 
-<p align="center">
-  <img src="![dos](https://github.com/user-attachments/assets/8ee1910c-2b63-44a3-a1a3-bab6de365e22)" alt="intro image">
-</p
+![dos](https://github.com/user-attachments/assets/9029b1fb-1610-403c-9561-2550be23bf74)
+
 
 A **desktop-based cybersecurity simulation tool** built using **Python, Tkinter, and Flask** that demonstrates **Denial of Service (DoS) attack behavior**, **rate limiting**, and **basic defense mechanisms** in a controlled, educational environment.
 This project visualizes how modern systems respond to high request rates using **HTTP status codes (200, 429, 403)** and **auto-blacklisting**, while providing **real-time monitoring**, **persistent forensic logs (SQLite)**, and **CSV export**.
@@ -18,7 +17,8 @@ This project visualizes how modern systems respond to high request rates using *
 - Persist all events for forensic analysis in an on-disk SQLite DB `security_events.db`.
 - Let users view, filter and export persistent logs (CSV) from within the GUI.
 
-![dos1](https://github.com/user-attachments/assets/febe089e-66dc-4582-8292-5eef22191a3b)
+<img width="803" height="526" alt="image" src="https://github.com/user-attachments/assets/37f62e66-39b2-48f5-a7d3-69fa17e543fd" />
+
 
 
 
@@ -89,7 +89,6 @@ Open the top of `main.py` to tune:
 - __SIM.start(bots=..., duration=...) —__ number of simulated IPs and attack duration
 - __NOTE:__ For demos, lower `MAX_REQUESTS` and shorter `TIME_WINDOW` to see `429` and `403` quickly.
 
-![DOS2](https://github.com/user-attachments/assets/a87d84bd-ad0d-4578-8ad9-1e056814a669)
 
 
 ### Testing & Observability (Wireshark / Browser)
@@ -105,11 +104,9 @@ Open the top of `main.py` to tune:
 
 This project demonstrates a realistic, per-IP rate limiting defense chain, with a SOC-style UI for live monitoring and persistent forensic logging. It is designed to be clear, reproducible and examiner-friendly: counters and logs reset per attack to allow repeatable demonstrations and straightforward analysis.
 
-![DOS4](https://github.com/user-attachments/assets/48f1f3d4-6c26-46fd-b046-e41a05b646c8)
-
-
 ### ⚠️ Disclaimer
 
 For __educational and authorized testing__ only.
 Do not run this tool against systems for which you do not have explicit permission. Misuse may violate local laws and acceptable use policies.
+![DOS4](https://github.com/user-attachments/assets/48f1f3d4-6c26-46fd-b046-e41a05b646c8)
 
