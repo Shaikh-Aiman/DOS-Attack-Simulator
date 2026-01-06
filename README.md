@@ -53,7 +53,7 @@ cd DOS-Attack-Simulator
 - Close the app or press `Ctrl+C` in terminal — program performs graceful shutdown (stops simulator, cancels GUI timers and exits).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/378f6728-2e0a-4bd4-8a5f-ea9a8a47cc2d"  alt="DoS Simulator – Logs View" width="1000">
+  <img src="https://github.com/user-attachments/assets/378f6728-2e0a-4bd4-8a5f-ea9a8a47cc2d"  alt="DoS Simulator – Logs View" width="700">
 </p>
 
 
@@ -81,7 +81,9 @@ __Event Logs tab__
 - __Export CSV:__ saves current DB contents to a CSV file for reporting.
 - __Clear DB Logs:__ deletes all persistent logs from the SQLite DB (confirm via GUI). After clearing, the DB is empty until new events are logged.
 
-![DOS3](https://github.com/user-attachments/assets/81190d63-a9d2-451f-b4cb-5884faa2b434)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/81190d63-a9d2-451f-b4cb-5884faa2b434" alt="DoS4" width="700">
+</p>
 
 ### Configuration:
 
@@ -115,6 +117,7 @@ This project demonstrates a realistic, per-IP rate limiting defense chain, with 
 - Do not run this tool against systems for which you do not have explicit permission. Misuse may violate local laws and acceptable use policies. </n>
 
 
-
-![DOS4](https://github.com/user-attachments/assets/48f1f3d4-6c26-46fd-b046-e41a05b646c8)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/48f1f3d4-6c26-46fd-b046-e41a05b646c8" alt="DoS final" width="700">
+</p>
 
