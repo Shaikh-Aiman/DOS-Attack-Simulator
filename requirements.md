@@ -5,6 +5,7 @@
        width="700">
 </p>
 
+
 This document explains the system, software, and library requirements needed to run the __DOS Attack Simulator__ successfully.
 <br>
 
